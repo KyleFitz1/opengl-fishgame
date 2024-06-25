@@ -1,0 +1,8 @@
+﻿  FishBowl.cpp
+c:\users\kyle\source\repos\fitzpatrick445project4\fishbowl.cpp(188): warning C4018: '<': signed/unsigned mismatch
+c:\users\kyle\source\repos\fitzpatrick445project4\fishbowl.cpp(205): warning C4018: '<': signed/unsigned mismatch
+c:\users\kyle\source\repos\fitzpatrick445project4\fishbowl.cpp(306): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\kyle\source\repos\fitzpatrick445project4\fishbowl.cpp(346): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\kyle\source\repos\fitzpatrick445project4\fishbowl.cpp(408): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kyle\source\repos\fitzpatrick445project4\fishbowl.cpp(420): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Fitzpatrick445Project4.vcxproj -> C:\Users\Kyle\source\repos\Debug\Fitzpatrick445Project4.exe
